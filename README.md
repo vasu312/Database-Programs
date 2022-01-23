@@ -1,5 +1,5 @@
 # Database-Programs
-<h3>Python SQLite Programs using SQLite3</h3>
+Python SQLite Programs using SQLite3
 
 >>> Python SQLite Database Connection
   
